@@ -19,7 +19,7 @@
     }
   ],
   "start_url": ".",
-  "display": "broswer",
+  "display": "browser",
   "theme_color": "#FF455D",
   "background_color": "#FF455D"
 }
